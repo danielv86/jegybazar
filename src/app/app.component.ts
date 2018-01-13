@@ -7,5 +7,5 @@ import {Component} from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
-  alma = [1, 2, 3, 4];
+  public isCollapsed = true;
 }
